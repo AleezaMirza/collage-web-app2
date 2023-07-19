@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(pink, aqua, lightyellow, pink);
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    background: lightgray;
+    width: 100%;
+    text-align: center;
+}
+
+img:hover{
+    border-radius: 140px;
+}s
+
+img{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+  
+}
